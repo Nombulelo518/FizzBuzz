@@ -7,3 +7,4 @@
 *.wsuo
 /FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
 /FizzBuzzTests/bin/Debug/net8.0/CoverletSourceRootsMapping_FizzBuzzTests
+*.json
