@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FizzBuzzTests"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+249624ed315c844b4d0bb24354e464b3726bd6ec"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FizzBuzzTests"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FizzBuzzTests"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

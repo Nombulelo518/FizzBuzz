@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FizzBuzz/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+*.wsuo
+/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
+/FizzBuzzTests/bin/Debug/net8.0/CoverletSourceRootsMapping_FizzBuzzTests
