@@ -1,0 +1,14 @@
+C:\Development\FizzBuzz\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+C:\Development\FizzBuzz\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+C:\Development\FizzBuzz\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+C:\Development\FizzBuzz\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+C:\Development\FizzBuzz\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+C:\Development\FizzBuzz\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
