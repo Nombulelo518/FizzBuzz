@@ -7,6 +7,7 @@
 *.wsuo
 /FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
 /FizzBuzzTests/bin/Debug/net8.0/CoverletSourceRootsMapping_FizzBuzzTests
+<<<<<<< HEAD
 /.vs/FizzBuzz/FileContentIndex/329e06bf-2533-4834-8247-5ea76c21903b.vsidx
 /.vs/FizzBuzz/FileContentIndex/7c430062-d2dd-4473-9c5d-70d4d512d16a.vsidx
 /.vs/FizzBuzz/FileContentIndex/40d945f5-11bb-4fdd-bfb1-5bb51c0eb77c.vsidx
@@ -15,3 +16,8 @@
 *.json
 /FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
 /.vs/FizzBuzz/v17/.suo
+=======
+*.json
+*.cs
+*.editorconfig
+>>>>>>> ce109f66473f6d6e34d793ce7524d89daf446ca1
